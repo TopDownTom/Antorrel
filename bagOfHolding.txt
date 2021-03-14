@@ -8,24 +8,19 @@ Weight: 120
 	-Growth
 		Gain the "enlarge" Effect of the enlarge/reduce spell for 1d4 hours (no Concentration required).
 
-
 [Scrolls] 
 	-Heroism
 		1 hour. Gain 10 Temporary Hit Points. For the same Duration, under the effect of the bless spell (no Concentration required).
 			Bless: attack roll, saving throw, add a d4
 
-
 [Gems & Stones]
 	-white/blue pale glow gemstones (from shadowdragon ruins)
 	-bag of gemstones
 
-
 [Weapons]
-      
 
 [Armor]
 
- 
 [Magic Items]
 	-Dust of Disappearing
 		Action. You and each creature and object within 10 feet of you become Invisible for 2d4 minutes
@@ -36,13 +31,11 @@ Weight: 120
 [Books]
 	-Argent's Tome
 
-
 [Misc Items]
 	-Map of Gant
 	-Compass
 	-Deeds to Nonastall Estates in Cilidorn
 	-Quills (3) & Ink Bottle (1)
-
 
 [Food]
 	-Rations: 1 month for group
