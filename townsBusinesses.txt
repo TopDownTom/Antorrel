@@ -1,7 +1,7 @@
 PLACES AND ESTABLISHMENTS
 
-[Gildore, Town of]
-	Tanel Cords & Threads:
+[Gilldory, Town of]
+	Tonell Cords & Threads:
 		Dowler (manager) - George's brother
 		George (cart driver, and now our friend)
 
@@ -38,7 +38,7 @@ PLACES AND ESTABLISHMENTS
 	The Birch Sap:
 		Parra - Hafling woman
 
-	Fort Luwellan Charge House:
+	Fort Llewellyn Charge House:
 		Wohl - gave us our chambers
 
 	Under-Cilidorn Shanty:

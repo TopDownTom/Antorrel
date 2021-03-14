@@ -10,12 +10,12 @@ FAMILIES AND PEOPLE
 
 
 [Cestid & Lyathor]
-      Aelyn Cestid: Half-elven woman. Aisling's mother.
+      Aelyn Cestaed: Half-elven woman. Aisling's mother.
       Sylver Lyathor - Elven male. Father.
       Jast - Air Ordan. Butler.
 
 
-[Nonastall Family]
+[Nonistal Family]
 	Aldon - Head of Household
 	Argent - prior student of College of Wind. We have his journal.
 	Argent's Wife - unknown
