@@ -18,6 +18,7 @@ Weight: 120
 	-bag of gemstones
 
 [Weapons]
+	-Nell's 9 regular bolts
 
 [Armor]
 
@@ -38,4 +39,4 @@ Weight: 120
 	-Quills (3) & Ink Bottle (1)
 
 [Food]
-	-Rations: 1 month for group
+	-Rations: 35 days for group
