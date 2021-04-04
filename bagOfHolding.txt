@@ -2,6 +2,14 @@ BAG OF HOLDING
 
 Weight: 120
 
+Party Funds:
+Brit: 20
+Star: 10
+Cill: 59
+Pearl: 44
+Electrum: 8
+Shard:
+
 [Potions]
 	-Basic Healing: 4
 		2d4 + 2
