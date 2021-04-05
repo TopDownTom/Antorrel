@@ -47,4 +47,4 @@ Shard:
 	-Quills (3) & Ink Bottle (1)
 
 [Food]
-	-Rations: 35 days for group
+	-Rations: 34 days for group
