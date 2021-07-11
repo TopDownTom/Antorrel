@@ -11,7 +11,7 @@ Electrum: 8
 Shard:
 
 [Potions]
-	-Basic Healing: 4
+	-Basic Healing: 3
 		2d4 + 2
 	-Growth
 		Gain the "enlarge" Effect of the enlarge/reduce spell for 1d4 hours (no Concentration required).
@@ -45,6 +45,11 @@ Shard:
 	-Compass
 	-Deeds to Nonastall Estates in Cilidorn
 	-Quills (3) & Ink Bottle (1)
+	-Lid to trap box from the Agimkin's special trees.
+		The vials and the components were broken and unusable but the arcane symbol and brass fittings remain
 
 [Food]
-	-Rations: 33 days for group
+	-Rations: 13.5 days for group
+
+[Kits]
+	-Alchemist Kit from Gildak men's camp
