@@ -8,6 +8,9 @@ PLACES AND ESTABLISHMENTS
 	Gilded Glass Inn:
 		Ruya (innkeeper) - Nell's Uncle
 
+	Church:
+		Francis - a friar
+
 
 [Filton, Township of]
 	Guard:

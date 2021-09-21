@@ -2,6 +2,12 @@ BAG OF HOLDING
 
 Weight: 120
 
+400gp of valuable materials
+	silverware, goblets, shiny things, etc.
+730gp of coin
+95pl
+400s
+
 Party Funds:
 Brit: 20
 Star: 10
@@ -11,10 +17,8 @@ Electrum: 8
 Shard:
 
 [Potions]
-	-Basic Healing: 4
+	-Basic Healing: 2
 		2d4 + 2
-	-Growth
-		Gain the "enlarge" Effect of the enlarge/reduce spell for 1d4 hours (no Concentration required).
 
 [Scrolls] 
 	-Heroism
@@ -47,4 +51,4 @@ Shard:
 	-Quills (3) & Ink Bottle (1)
 
 [Food]
-	-Rations: 33 days for group
+	-Rations: 18 days for group
