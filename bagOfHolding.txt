@@ -2,23 +2,18 @@ BAG OF HOLDING
 
 Weight: 120
 
-400gp of valuable materials
-	silverware, goblets, shiny things, etc.
-730gp of coin
-95pl
-400s
-
 Party Funds:
-Brit: 20
-Star: 10
-Cill: 59
-Pearl: 44
-Electrum: 8
-Shard:
+Brit (gb): 20
+Star (p): 105
+Cill (g): 783
+Pearl (s): 437
+Electrum : 8
+Shard (c):
 
 [Potions]
 	-Basic Healing: 2
 		2d4 + 2
+	-Empty healing vials: 2
 
 [Scrolls] 
 	-Heroism
@@ -49,6 +44,10 @@ Shard:
 	-Compass
 	-Deeds to Nonastall Estates in Cilidorn
 	-Quills (3) & Ink Bottle (1)
+	-400 cill of valuable materials
+		silverware, goblets, shiny things, etc.
+		MINUS the goblet that we place into the mound in the Silfar Fenlands
+	-Small tuft of moss from the Silfar fenlands
 
 [Food]
 	-Rations: 18 days for group
