@@ -27,6 +27,13 @@ PLACES AND ESTABLISHMENTS
 		Ember (barkeep) - Elder Dragonborn
 
 
+[Candor, Town of]
+	The Shady Glade Inn:
+		Leorus: brunette female
+	Dark Water (Dive Bar):
+		Jacketh: 
+
+
 [Cilidorn, City of]
 	Freelan's Inn:
 
@@ -41,11 +48,13 @@ PLACES AND ESTABLISHMENTS
 	The Birch Sap:
 		Parra - Hafling woman
 
-	Fort Llewellyn Charge House:
+	Fort Llewellyn:
 		Wohl - gave us our chambers
 		Arforth - Head of the Corsair
 		Astel - Sargent
+		Huhn - Captain? of the forces that aided us in the woods
 
 	Under-Cilidorn Shanty:
 		Shardeil - elderly Dragonborn female
 		Tiki - young Goblin female. first met when she stole something from the Grove
+
