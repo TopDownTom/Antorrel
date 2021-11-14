@@ -14,6 +14,7 @@ Shard (c):
 	-Basic Healing: 2
 		2d4 + 2
 	-Empty healing vials: 2
+	-Empty anti-peet-field-asshole vial: 1
 
 [Scrolls] 
 	-Heroism
