@@ -23,6 +23,7 @@ PLACES AND ESTABLISHMENTS
 
 
 [Calenhills, Settlement of]
+	The Nonastal Estate
 	Top Off:
 		Ember (barkeep) - Elder Dragonborn
 
@@ -31,7 +32,7 @@ PLACES AND ESTABLISHMENTS
 	The Shady Glade Inn:
 		Leorus: brunette female
 	Dark Water (Dive Bar):
-		Jacketh: 
+		Jacketh:
 
 
 [Cilidorn, City of]
@@ -57,4 +58,3 @@ PLACES AND ESTABLISHMENTS
 	Under-Cilidorn Shanty:
 		Shardeil - elderly Dragonborn female
 		Tiki - young Goblin female. first met when she stole something from the Grove
-
