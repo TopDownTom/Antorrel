@@ -1,3 +1,4 @@
+Ancea'lar
 PLACES AND ESTABLISHMENTS
 
 [Gilldory, Town of]
@@ -32,7 +33,7 @@ PLACES AND ESTABLISHMENTS
 	The Shady Glade Inn:
 		Leorus: brunette female
 	Dark Water (Dive Bar):
-		Jacketh:
+		Jackoth: proprietor
 
 
 [Cilidorn, City of]
@@ -49,11 +50,12 @@ PLACES AND ESTABLISHMENTS
 	The Birch Sap:
 		Parra - Hafling woman
 
-	Fort Llewellyn:
-		Wohl - gave us our chambers
-		Arforth - Head of the Corsair
-		Astel - Sargent
-		Huhn - Captain? of the forces that aided us in the woods
+	Fort Llewellyn (Falsil stronghold):
+		(The Iritan "Navy")
+		Wohl (Saen) - gave us our chambers
+		Arforth (Lierot) - Head of the Corsair
+		Astel (Saen) -
+		Huhn (Saen) - of the forces that aided us in the woods
 
 	Under-Cilidorn Shanty:
 		Shardeil - elderly Dragonborn female
