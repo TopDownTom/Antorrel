@@ -3,20 +3,22 @@ BAG OF HOLDING
 Weight: 120
 
 Party Funds:
-Brit (gb): 20
-Star (p): 105
-Cill (g): 783
+Brit (Cill bar [50 Cill]): 20
+Star (p [10 Cill]): 105
+Cill (g): 38
 Pearl (s): 437
 Electrum : 8
 Shard (c):
 
 [Potions]
-	-Basic Healing: 2
+	-Basic Healing: 4
 		2d4 + 2
+	-Greater Healing: 1
+		4d4 + 4
 	-Empty healing vials: 2
-	-Empty anti-peet-field-asshole vial: 1
+	-Empty anti-peet-field vial: 1
 
-[Scrolls] 
+[Scrolls]
 	-Heroism
 		1 hour. Gain 10 Temporary Hit Points. For the same Duration, under the effect of the bless spell (no Concentration required).
 			Bless: attack roll, saving throw, add a d4
@@ -45,15 +47,10 @@ Shard (c):
 	-Compass
 	-Deeds to Nonastall Estates in Cilidorn
 	-Quills (3) & Ink Bottle (1)
-	-400 cill of valuable materials
-		silverware, goblets, shiny things, etc.
-		MINUS the goblet that we place into the mound in the Silfar Fenlands
 	-Small tuft of moss from the Silfar fenlands
-	-Lid to trap box from the Agimkin's special trees.
-		The vials and the components were broken and unusable but the arcane symbol and brass fittings remain
 
 [Food]
-	-Rations: 13.5 days for group
+	-Rations: 30 days for group
 
 [Kits]
 	-Alchemist Kit from Gildak men's camp
