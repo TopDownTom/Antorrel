@@ -60,3 +60,7 @@ PLACES AND ESTABLISHMENTS
 	Under-Cilidorn Shanty:
 		Shardeil - elderly Dragonborn female
 		Tiki - young Goblin female. first met when she stole something from the Grove
+
+	Academy of the Wind:
+		Dept. of Acquisitions: where reagents and magical items are turned in
+			- A gnomish fellow greets us
