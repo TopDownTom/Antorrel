@@ -4,9 +4,9 @@ Weight: 120
 
 Party Funds:
 Brit (Cill bar [50 Cill]): 20
-Star (p [10 Cill]): 105
-Cill (g): 38
-Pearl (s): 437
+Star (p [10 Cill]): 115
+Cill (g): 17
+Pearl (s): 432
 Electrum : 8
 Shard (c):
 
@@ -49,8 +49,12 @@ Shard (c):
 	-Quills (3) & Ink Bottle (1)
 	-Small tuft of moss from the Silfar fenlands
 
+[Clothes]
+	-Winter clothes for the group
+
 [Food]
 	-Rations: 30 days for group
+	-Horse feed (days): 9
 
 [Kits]
 	-Alchemist Kit from Gildak men's camp
