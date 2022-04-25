@@ -12,13 +12,15 @@ PLACES AND ESTABLISHMENTS
 	Church:
 		Francis - a friar
 
+  Temple of the Defenders:
+
 
 [Filton, Township of]
 	Guard:
 		Captain Borrell
 
 	Honeywell House Inn:
-		Adrienne Honewell
+		Adrienne Honeywell
 
 	The Massive Flaggon:
 
@@ -64,3 +66,6 @@ PLACES AND ESTABLISHMENTS
 	Academy of the Wind:
 		Dept. of Acquisitions: where reagents and magical items are turned in
 			- A gnomish fellow greets us
+
+[Tallyho, Village]
+	Seeveril Tavern: (naned after a brook that runs through town)
