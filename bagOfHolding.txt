@@ -5,7 +5,7 @@ Weight: 120
 Party Funds:
 Brit (Cill bar [50 Cill]): 20
 Star (p [10 Cill]): 115
-Cill (g): 17
+Cill (g): 12
 Pearl (s): 432
 Electrum : 8
 Shard (c):
@@ -45,16 +45,20 @@ Shard (c):
 [Misc Items]
 	-Map of Gant
 	-Compass
+  -Bucket
 	-Deeds to Nonastall Estates in Cilidorn
 	-Quills (3) & Ink Bottle (1)
 	-Small tuft of moss from the Silfar fenlands
+  -Bundle of sticks for firewood: 2
+  -Small rock with the residue for the /feed
+
 
 [Clothes]
 	-Winter clothes for the group
 
 [Food]
-	-Rations: 30 days for group
-	-Horse feed (days): 9
+	-Rations: 25 days for group
+	-Horse feed (days): 6
 
 [Kits]
 	-Alchemist Kit from Gildak men's camp
