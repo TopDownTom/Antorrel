@@ -36,7 +36,7 @@ FAMILIES AND PEOPLE
 
 [Gildakians]
   Gildak - 'Commander'
-    "The Dude" - Seems like a right-hand man. A magic wielder, in charge of the esoteric magic surrounding Gildak's ritual. Always hooded.
+  "The Dude" - Seems like a right-hand man. A magic wielder, in charge of the esoteric magic surrounding Gildak's ritual. Always hooded.
   Dead Guy 1 - After killing him we cast Speak With The Dead on him.
     From Danzellocke
   Dead Guy 2 - After killing him we cast Speak With The Dead on him.
