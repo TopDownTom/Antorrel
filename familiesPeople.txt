@@ -1,11 +1,11 @@
 FAMILIES AND PEOPLE
 
-[Allistair Family]
-  Sylvia - human woman, long black hair. Mother.
+[Alistair Family]
+  Sylvia Alistair - human woman, long black hair. Mother.
     Not much is yet known about Sylvia, except that she acts as the head of house. Some kind of magic user, but seemingly less powerful than her sister.
-  Deyman - human male, a similar build to Alexi. Father.
+  Deyman Vitali - human male, a similar build to Alexi. Father.
     Practices alchemy.
-  Lilliana - human woman, long black hair. Aunt to Alexi.
+  Liliana Alistair - human woman, long black hair. Aunt to Alexi.
     Alexi has only met her a few times, only as a child.
 
 [Tannisod Family (Ordan)]

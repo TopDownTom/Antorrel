@@ -1,4 +1,3 @@
-Ancea'lar
 PLACES AND ESTABLISHMENTS
 
 [Gilldory, Town of]
@@ -14,7 +13,6 @@ PLACES AND ESTABLISHMENTS
 
   Temple of the Defenders:
 
-
 [Filton, Township of]
 	Guard:
 		Captain Borrell
@@ -24,12 +22,10 @@ PLACES AND ESTABLISHMENTS
 
 	The Massive Flaggon:
 
-
 [Calenhills, Settlement of]
 	The Nonastal Estate
 	Top Off:
 		Ember (barkeep) - Elder Dragonborn
-
 
 [Candor, Town of]
 	The Shady Glade Inn:
@@ -37,17 +33,14 @@ PLACES AND ESTABLISHMENTS
 	Dark Water (Dive Bar):
 		Jackoth: proprietor
 
-
 [Cilidorn, City of]
 	Freelan's Inn:
-
 
 	The Hidden Horizon:
 		Rayment Nazoor (proprietor) - Flamboyant Elven man. Aisling's boss/landlord
 		Aisling's rented room
 
 	The Bluewin:
-
 
 	The Birch Sap:
 		Parra - Hafling woman
