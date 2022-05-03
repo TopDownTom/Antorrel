@@ -34,6 +34,9 @@ PLACES AND ESTABLISHMENTS
 		Jackoth: proprietor
 
 [Cilidorn, City of]
+  The Corsairs:
+    Arforth: either the head of, or as least the political head of the Corsairs
+
 	Freelan's Inn:
 
 	The Hidden Horizon:
