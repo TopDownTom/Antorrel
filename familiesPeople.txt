@@ -1,43 +1,42 @@
 FAMILIES AND PEOPLE
 
 [Allistair Family]
-	Sylvia - human woman, long black hair. Mother.
+  Sylvia - human woman, long black hair. Mother.
     Not much is yet known about Sylvia, except that she acts as the head of house. Some kind of magic user, but seemingly less powerful than her sister.
-	Deyman - human male, a similar build to Alexi. Father.
+  Deyman - human male, a similar build to Alexi. Father.
     Practices alchemy.
   Lilliana - human woman, long black hair. Aunt to Alexi.
     Alexi has only met her a few times, only as a child.
 
 [Tannisod Family (Ordan)]
-      Aegan - light-blue skin, crest across her left brow and cheek
-      Morvin -
+  Aegan - light-blue skin, crest across her left brow and cheek
+  Morvin -
 
 [Cortain]
-      Cortain - it's Cortain.
+  Cortain - it's Cortain.
 
 [Cestid & Lyathor]
-      Aelyn Cestaed (Ancea'lar): Half-elven woman. Aisling's mother.
-      Sylver Lyathor - Elven male. Father.
-      Jast - Air Ordan. Butler.
+  Aelyn Cestaed (Ancea'lar): Half-elven woman. Aisling's mother.
+  Sylver Lyathor - Elven male. Father.
+  Jast - Air Ordan. Butler.
 
 [Nonistal Family]
-	Aldon - Head of Household
-	Argent - prior student of College of Wind. We have his journal.
-	Argent's Wife - unknown
-		Children (2 boys):
-			Temble - possibly still alive. seems to have caused the issues @ estate.
-			Ghost child - unknown. was in a loop jumping from the second-floor window.
+  Aldon - Head of Household
+  Argent - prior student of College of Wind. We have his journal.
+  Argent's Wife - unknown
+    Children (2 boys):
+      Temble - possibly still alive. seems to have caused the issues @ estate.
+      Ghost child - unknown. was in a loop jumping from the second-floor window.
 
 [The Wood Wolves]
-	Carroday - a captured man during the incursion to "The Watchpost" in the Sellar Wildwood.
-	Yuna, The Bound - Drow woman. Darker complexion, long silvery hair. Ranger: carries a shortsword and bow with inscriptions along its length.
-		someone connected to the Agimkin, though their relation is yet unknown.
-	Agimkin - A diety of sorts for The Wood Wolves. Some sort of dragon or dragon-like creature. Smaller in size than a "typical elder dragon", black in color, smaller wings. Has some kind of ailment requiring it feeds upon the sap of a special tree.
-	Wood Wolf Dude - very sneaky.
+  Carroday - a captured man during the incursion to "The Watchpost" in the Sellar Wildwood.
+  Yuna, The Bound - Drow woman. Darker complexion, long silvery hair. Ranger: carries a shortsword and bow with inscriptions along its length. Someone connected to the Agimkin, though their relation is yet unknown.
+  Agimkin - A diety of sorts for The Wood Wolves. Some sort of dragon or dragon-like creature. Smaller in size than a "typical elder dragon", black in color, smaller wings. Has some kind of ailment requiring it feeds upon the sap of a special tree.
+  Wood Wolf Dude - very sneaky.
 
 [Gildakians]
   Gildak - 'Commander'
-  "The Dude" - Seems like a right-hand man. A magic wielder, in charge of the esoteric magic surrounding Gildak's ritual. Always hooded.
+    "The Dude" - Seems like a right-hand man. A magic wielder, in charge of the esoteric magic surrounding Gildak's ritual. Always hooded.
   Dead Guy 1 - After killing him we cast Speak With The Dead on him.
     From Danzellocke
   Dead Guy 2 - After killing him we cast Speak With The Dead on him.
