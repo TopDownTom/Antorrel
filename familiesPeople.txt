@@ -2,22 +2,23 @@ FAMILIES AND PEOPLE
 
 [Allistair Family]
 	Sylvia - human woman, long black hair. Mother.
+    Not much is yet known about Sylvia, except that she acts as the head of house. Some kind of magic user, but seemingly less powerful than her sister.
 	Deyman - human male, a similar build to Alexi. Father.
+    Practices alchemy.
+  Lilliana - human woman, long black hair. Aunt to Alexi.
+    Alexi has only met her a few times, only as a child.
 
 [Tannisod Family (Ordan)]
       Aegan - light-blue skin, crest across her left brow and cheek
       Morvin -
 
-
 [Cortain]
       Cortain - it's Cortain.
-
 
 [Cestid & Lyathor]
       Aelyn Cestaed (Ancea'lar): Half-elven woman. Aisling's mother.
       Sylver Lyathor - Elven male. Father.
       Jast - Air Ordan. Butler.
-
 
 [Nonistal Family]
 	Aldon - Head of Household
@@ -33,3 +34,11 @@ FAMILIES AND PEOPLE
 		someone connected to the Agimkin, though their relation is yet unknown.
 	Agimkin - A diety of sorts for The Wood Wolves. Some sort of dragon or dragon-like creature. Smaller in size than a "typical elder dragon", black in color, smaller wings. Has some kind of ailment requiring it feeds upon the sap of a special tree.
 	Wood Wolf Dude - very sneaky.
+
+[Gildakians]
+  Gildak - 'Commander'
+  "The Dude" - Seems like a right-hand man. A magic wielder, in charge of the esoteric magic surrounding Gildak's ritual. Always hooded.
+  Dead Guy 1 - After killing him we cast Speak With The Dead on him.
+    From Danzellocke
+  Dead Guy 2 - After killing him we cast Speak With The Dead on him.
+    From Bewswickse
