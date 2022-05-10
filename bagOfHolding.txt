@@ -14,12 +14,13 @@ total: 2209.2 Cill
 b*50 + s*10 + c*1 + p*0.1 + e*0.5 + sh*0.01 = Z Cill
 
 [Potions]
-  - Basic Healing: 4
+  - Basic Healing: 3
     2d4 + 2
   - Greater Healing: 1
     4d4 + 4
   - Empty healing vials: 2
   - Empty anti-peet-field vial: 1
+    - Filled with some of the metallic material collecting on the rods from that structure
 
 [Scrolls]
   - Heroism
