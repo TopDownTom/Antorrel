@@ -55,6 +55,7 @@ b*50 + s*10 + c*1 + p*0.1 + e*0.5 + sh*0.01 = Z Cill
   - Small tuft of moss from the Silfar fenlands
   - Bundle of sticks for firewood: 2
   - Small rock with the residue for the /feed
+  - Rope from Gildory (used at the far-edge of the Monk ravine)
 
 [Clothes]
   - Winter clothes for the group
