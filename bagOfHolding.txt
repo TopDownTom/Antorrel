@@ -18,7 +18,7 @@ b*50 + s*10 + c*1 + p*0.1 + e*0.5 + sh*0.01 = Z Cill
     2d4 + 2
   - Empty Greater Healing vial
     - Filled with the clay up near where Haitz was digging. Shit playdoh.
-  - Empty healing vials: 2
+  - Empty healing vials: 1
   - Empty anti-zombie-peet-field vial: 1
     - Filled with some of the metallic material collecting on the rods from that structure
 
@@ -56,6 +56,9 @@ b*50 + s*10 + c*1 + p*0.1 + e*0.5 + sh*0.01 = Z Cill
   - Bundle of sticks for firewood: 2
   - Small rock with the residue for the /feed
   - Rope from Gildory (used at the far-edge of the Monk ravine)
+  - Small twig from Crunch's tree
+  - Gryphon's Feathers from its tipped wingspan: 8
+  - Vial of moon dust from the monk path
 
 [Clothes]
   - Winter clothes for the group
