@@ -10,7 +10,8 @@ FAMILIES AND PEOPLE
 
 [Tannisod Family (Ordan)]
   Aegan - light-blue skin, crest across her left brow and cheek
-  Morvin -
+  Morvin 'Kanto'- Heart of radiance attunement
+    Long white hair, pulled back
 
 [Cortain]
   Cortain - it's Cortain.
@@ -41,3 +42,7 @@ FAMILIES AND PEOPLE
     From Danzellocke
   Dead Guy 2 - After killing him we cast Speak With The Dead on him.
     From Bewswickse
+
+[Orus Peoples]
+  Erso - 'Gee Gallahn'
+    grey-skinned eleven woman who we first met upon arrival
