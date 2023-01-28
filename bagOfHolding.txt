@@ -55,13 +55,13 @@ total: 23109 Cill
   - Quills (3) & Ink Bottle (1)
   - Small tuft of moss from the Silfar fenlands
   - Bundle of sticks for firewood: 2
-  - Small rock with the residue for the /feed
+  - Small rock with the residue for the feed
   - Rope from Gildory (used at the far-edge of the Monk ravine)
   - Small twig from Crunch's tree
   - Gryphon's Feathers from its tipped wingspan: 8
   - Vial of moon dust from the monk path
   - moderate size gold-plated bust of Naga lady
-  - 3 small stones from Naga? ladies lair, colored;
+  - 3 small Ioun stones from Naga ladies lair, colored;
     - dusty rose prism: enchances fortitude, you gain +1 to AC
     - clear spindle: brings forth sustenance, does not need to eat or drink
     - dark blue rhomboid: Ioun stone - enhanced awareness around you, you can't be surprised while attuned
@@ -70,7 +70,7 @@ total: 23109 Cill
   - Winter clothes for the group
 
 [Food]
-  - Rations: 23 days for group
+  - Rations: 20 days for group
   - Horse feed (days): 5
 
 [Kits]
