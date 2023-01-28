@@ -3,14 +3,14 @@ FAMILIES AND PEOPLE
 [Alistair Family]
   Sylvia Alistair - human woman, long black hair. Mother.
     Not much is yet known about Sylvia, except that she acts as the head of house. Some kind of magic user, but seemingly less powerful than her sister.
-  Deyman Vitali - human male, a similar build to Alexi. Father.
-    Practices alchemy.
   Liliana Alistair - human woman, long black hair. Aunt to Alexi.
     Alexi has only met her a few times, only as a child.
+  Deyman Vitali - human male, a similar build to Alexi. Father.
+    Practices alchemy.
 
 [Tannisod Family (Ordan)]
   Aegan - light-blue skin, crest across her left brow and cheek
-  Morvin 'Kanto'- Heart of radiance attunement
+  Morvin - Kanto - Heart of radiance attunement
     Long white hair, pulled back
 
 [Cortain]
@@ -36,7 +36,7 @@ FAMILIES AND PEOPLE
   Wood Wolf Dude - very sneaky.
 
 [Gildakians]
-  Gildak - 'Commander'
+  Gildak - 'Commander
   "The Dude" - Seems like a right-hand man. A magic wielder, in charge of the esoteric magic surrounding Gildak's ritual. Always hooded.
   Dead Guy 1 - After killing him we cast Speak With The Dead on him.
     From Danzellocke
@@ -46,3 +46,8 @@ FAMILIES AND PEOPLE
 [Orus Peoples]
   Erso - 'Gee Gallahn'
     grey-skinned eleven woman who we first met upon arrival
+  Asta - Jeth
+  Siggy - Ornery dwarven lady
+    covered in skull and flower tattoos
+  Kane - extremely handsome elven man
+    light-blue skinned handsome sea-elf
