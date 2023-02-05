@@ -56,7 +56,6 @@ total: 23109 Cill
   - Small tuft of moss from the Silfar fenlands
   - Bundle of sticks for firewood: 2
   - Small rock with the residue for the feed
-  - Rope from Gildory (used at the far-edge of the Monk ravine)
   - Small twig from Crunch's tree
   - Gryphon's Feathers from its tipped wingspan: 8
   - Vial of moon dust from the monk path
