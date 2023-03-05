@@ -58,7 +58,6 @@ total: 23109 Cill
   - Small rock with the residue for the feed
   - Small twig from Crunch's tree
   - Gryphon's Feathers from its tipped wingspan: 8
-  - Vial of moon dust from the monk path
   - moderate size gold-plated bust of Naga lady
   - 3 small Ioun stones from Naga ladies lair, colored;
     - dusty rose prism: enchances fortitude, you gain +1 to AC
@@ -69,8 +68,8 @@ total: 23109 Cill
   - Winter clothes for the group
 
 [Food]
-  - Rations: 20 days for group
-  - Horse feed (days): 5
+  - Rations: 35 days for group
+  - Horse feed (days): 22
 
 [Kits]
   - Alchemist Kit from Gildak men's camp
