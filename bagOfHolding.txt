@@ -63,13 +63,14 @@ total: 23109 Cill
     - dusty rose prism: enchances fortitude, you gain +1 to AC
     - clear spindle: brings forth sustenance, does not need to eat or drink
     - dark blue rhomboid: Ioun stone - enhanced awareness around you, you can't be surprised while attuned
+  - tablet from Aegan
 
 [Clothes]
   - Winter clothes for the group
 
 [Food]
-  - Rations: 35 days for group
-  - Horse feed (days): 22
+  - Rations: 28 days for group
+  - Horse feed (days): 0
 
 [Kits]
   - Alchemist Kit from Gildak men's camp
