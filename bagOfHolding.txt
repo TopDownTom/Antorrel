@@ -18,7 +18,7 @@ total: 16,r64.60 Cill
     2d4 + 2
   - Empty Greater Healing vial
     - Filled with the clay up near where Haitz was digging. Shit playdoh.
-  - Empty healing vials: 1
+  - Empty healing vials: 10
   - Empty anti-zombie-peet-field vial: 1
     - Filled with some of the metallic material collecting on the rods from that structure
   - Flux Silver: 1
@@ -67,11 +67,9 @@ total: 16,r64.60 Cill
   - tablet from Aegan
   - 3 50' coils of rope
   - 4 grappling hooks
-  - 10 empty potion of healing-sized vials
   - 1 vial of dirt from island in the lake of Remain
   - 2 manacles
   - 4 climbing kits
-  - 100 rolls of flowers from Perthlocky
 
 [Clothes]
   - Winter clothes for the group
@@ -79,6 +77,7 @@ total: 16,r64.60 Cill
 [Food]
   - Rations: 28 days for group
   - Horse feed (days): 0
+  - 100 rolls of flowers from Perthlocky
 
 [Kits]
   - Alchemist Kit from Gildak men's camp
