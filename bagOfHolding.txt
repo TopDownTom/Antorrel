@@ -1,6 +1,6 @@
 BAG OF HOLDING
 
-Bag weight: 300
+Bag weight: 400
 
 Party Funds:
 Brit (Cill bar [50 Cill]): 18
@@ -11,7 +11,7 @@ Electrum : 8
 Shard (c):
 
 b*50 + s*10 + c*1 + p*0.1 + e*0.5 + sh*0.01 = Z Cill
-total: 16,464.60 Cill
+total: 16,r64.60 Cill
 
 [Potions]
   - Basic Healing: 0
@@ -21,6 +21,8 @@ total: 16,464.60 Cill
   - Empty healing vials: 1
   - Empty anti-zombie-peet-field vial: 1
     - Filled with some of the metallic material collecting on the rods from that structure
+  - Flux Silver: 1
+    - Can cover up to 50 arrows to treat them as magical for the purposes of resistance
 
 [Scrolls]
   - Heroism
@@ -33,6 +35,7 @@ total: 16,464.60 Cill
 
 [Weapons]
   - Nell's 9 regular bolts
+  - Two shards of the broken Anganel sword
 
 [Armor]
 
@@ -64,7 +67,8 @@ total: 16,464.60 Cill
   - tablet from Aegan
   - 3 50' coils of rope
   - 4 grappling hooks
-  - 10 vials
+  - 10 empty potion of healing-sized vials
+  - 1 vial of dirt from island in the lake of Remain
   - 2 manacles
   - 4 climbing kits
   - 100 rolls of flowers from Perthlocky
