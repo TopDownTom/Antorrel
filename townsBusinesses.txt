@@ -65,3 +65,7 @@ PLACES AND ESTABLISHMENTS
 
 [Tallyho, Village]
 	Seeveril Tavern: (naned after a brook that runs through town)
+
+[Perthlocky]
+  Elwin, The Win:
+    Travelling Bazaar Hego Elwinth
