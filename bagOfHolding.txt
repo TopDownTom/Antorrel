@@ -73,6 +73,7 @@ total: 16,r64.60 Cill
 
 [Clothes]
   - Winter clothes for the group
+  - 3 cultist robes from Lake of Remain
 
 [Food]
   - Rations: 28 days for group
