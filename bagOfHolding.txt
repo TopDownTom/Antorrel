@@ -35,7 +35,7 @@ total: 16,r64.60 Cill
 
 [Weapons]
   - Nell's 9 regular bolts
-  - Two shards of the broken Anganel sword
+  - Three shards of the broken Anganel sword
 
 [Armor]
 
@@ -43,15 +43,28 @@ total: 16,r64.60 Cill
   - Dust of Disappearing
      Action. You and each creature and object within 10 feet of you become Invisible for 2d4 minutes
   - 6 six-sided die: can control what side they land on. single use
-  - Small glass orb w/ black stripe through middle: seemingly mundane
   - Question key: unlock any door
+  - Black sands:
+      Once per week you can cause a create to reverse it's entire round. Wisdom DC 17.
+  - The Bond of Wrill (Alexi is attuned and wearing):
+      Attuned wielder gets an additional warlock spell slot. Underwater it glows purple for 30ft.
+  - Ring of Vitus (Nell is attuned and wearing):
+      Every 10 minutes you regenerate 1D6 HP
+  - Light boots:
+      Upon speaking a word, chosen by the wearer, the soles glow dull white and gives you a fly speed of 30 ft.
+      After 12 hours of non-use, you regain 2 hours of use
+  - Feywood Staff (Willow is attuned and using):
+      Cracia tree. +1 to spell DC. Bonus action once per day, you can cast levitate.
+  - Magic Compass of Telaclys
+    saying "compass guide me" activates the magic
 
 [Books]
   - Argent's Tome
+  - 10f Farmer's Almanac
+  - Many books on soil from Lady Sallow alchemist's room
 
 [Misc Items]
   - Map of Gant
-  - Magic Compass of Telaclys
   - Bucket
   - Deeds to Nonastall Estates in Cilidorn
   - Quills (3) & Ink Bottle (1)
@@ -61,15 +74,22 @@ total: 16,r64.60 Cill
   - Small twig from Crunch's tree
   - Gryphon's Feathers from its tipped wingspan: 8
   - 3 small Ioun stones from Naga ladies lair, colored;
-    - dusty rose prism: enchances fortitude, you gain +1 to AC
-    - clear spindle: brings forth sustenance, does not need to eat or drink
+    - dusty rose prism: enchances fortitude, you gain +1 to AC (Aisling is wearing)
+    - clear spindle: brings forth sustenance, does not need to eat or drink (Alexi is wearing)
     - dark blue rhomboid: Ioun stone - enhanced awareness around you, you can't be surprised while attuned
   - tablet from Aegan
-  - 3 50' coils of rope
+  - 2 50' coils of rope
   - 4 grappling hooks
   - 1 vial of dirt from island in the lake of Remain
   - 2 manacles
   - 4 climbing kits
+  - Amulet to Lady Sallow (2)
+  - Blue gem from Lady Sallow's temple
+    - this item is unique in the sense it doesn't fall into a specific school of magic, but instead multiple at the same time. Transmutation, enchantment, and evocation. Unfaceted, unfinished stone.
+  - 5 random old scrolls from the Marius workshop room in Lady Sallow's temple
+  - Bronze and copper-colored pieces of metal from the Floating Rock's antechamber
+  - Explorer's pack from the wizard dude in the floating rock Cordis structure
+  - Small glass orb w/ black stripe through middle: seemingly mundane
 
 [Clothes]
   - Winter clothes for the group
