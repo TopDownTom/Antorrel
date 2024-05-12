@@ -69,3 +69,6 @@ PLACES AND ESTABLISHMENTS
 [Perthlocky]
   Elwin, The Win:
     Travelling Bazaar Hego Elwinth
+
+[Aures Valley Monastary]
+  Galan Hey Ander Squat, dirty, long-bearded dwarf
