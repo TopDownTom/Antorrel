@@ -11,7 +11,7 @@ Electrum : 8
 Shard (c):
 
 b*50 + s*10 + c*1 + p*0.1 + e*0.5 + sh*0.01 = Z Cill
-total: 16,r64.60 Cill
+total: 16,464.60 Cill
 
 [Potions]
   - Basic Healing: 0
@@ -50,13 +50,13 @@ total: 16,r64.60 Cill
       Attuned wielder gets an additional warlock spell slot. Underwater it glows purple for 30ft.
   - Ring of Vitus (Nell is attuned and wearing):
       Every 10 minutes you regenerate 1D6 HP
-  - Light boots:
+  - Light boots (Nell is attuned and wearing):
       Upon speaking a word, chosen by the wearer, the soles glow dull white and gives you a fly speed of 30 ft.
       After 12 hours of non-use, you regain 2 hours of use
   - Feywood Staff (Willow is attuned and using):
       Cracia tree. +1 to spell DC. Bonus action once per day, you can cast levitate.
   - Magic Compass of Telaclys
-    saying "compass guide me" activates the magic
+      saying "compass guide me" activates the magic
 
 [Books]
   - Argent's Tome
